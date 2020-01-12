@@ -1,0 +1,180 @@
+- image_path: E:/Dataset/football/images/img01106.jpg
+  objects:
+  - bndbox:
+      xmax: 830
+      xmin: 704
+      ymax: 717
+      ymin: 594
+    class_id: 0
+  size:
+  - 720
+  - 1280
+  - 3
+- image_path: E:/Dataset/football/images/img00690.jpg
+  objects:
+  - bndbox:
+      xmax: 905
+      xmin: 862
+      ymax: 256
+      ymin: 217
+    class_id: 0
+  size:
+  - 720
+  - 1280
+  - 3
+- image_path: E:/Dataset/football/images/img00168.jpg
+  objects:
+  - bndbox:
+      xmax: 898
+      xmin: 859
+      ymax: 267
+      ymin: 228
+    class_id: 0
+  size:
+  - 720
+  - 1280
+  - 3
+- image_path: E:/Dataset/football/images/img00660.jpg
+  objects:
+  - bndbox:
+      xmax: 248
+      xmin: 205
+      ymax: 370
+      ymin: 328
+    class_id: 0
+  size:
+  - 720
+  - 1280
+  - 3
+- image_path: E:/Dataset/football/images/img00357.jpg
+  objects:
+  - bndbox:
+      xmax: 891
+      xmin: 850
+      ymax: 304
+      ymin: 268
+    class_id: 0
+  size:
+  - 720
+  - 1280
+  - 3
+- image_path: E:/Dataset/football/images/img01276.jpg
+  objects:
+  - bndbox:
+      xmax: 870
+      xmin: 776
+      ymax: 716
+      ymin: 629
+    class_id: 0
+  size:
+  - 720
+  - 1280
+  - 3
+- image_path: E:/Dataset/football/images/img00669.jpg
+  objects:
+  - bndbox:
+      xmax: 467
+      xmin: 339
+      ymax: 571
+      ymin: 448
+    class_id: 0
+  size:
+  - 720
+  - 1280
+  - 3
+- image_path: E:/Dataset/football/images/messi_img00048.jpg
+  objects:
+  - bndbox:
+      xmax: 978
+      xmin: 949
+      ymax: 248
+      ymin: 176
+    class_id: 1
+  size:
+  - 720
+  - 1280
+  - 3
+- image_path: E:/Dataset/football/images/img00724.jpg
+  objects:
+  - bndbox:
+      xmax: 444
+      xmin: 386
+      ymax: 573
+      ymin: 516
+    class_id: 0
+  size:
+  - 720
+  - 1280
+  - 3
+- image_path: E:/Dataset/football/images/img00728.jpg
+  objects:
+  - bndbox:
+      xmax: 720
+      xmin: 656
+      ymax: 552
+      ymin: 494
+    class_id: 0
+  size:
+  - 720
+  - 1280
+  - 3
+- image_path: E:/Dataset/football/images/img00655.jpg
+  objects:
+  - bndbox:
+      xmax: 765
+      xmin: 697
+      ymax: 616
+      ymin: 553
+    class_id: 0
+  size:
+  - 720
+  - 1280
+  - 3
+- image_path: E:/Dataset/football/images/messi_img00007.jpg
+  objects:
+  - bndbox:
+      xmax: 1198
+      xmin: 1105
+      ymax: 545
+      ymin: 346
+    class_id: 1
+  size:
+  - 720
+  - 1280
+  - 3
+- image_path: E:/Dataset/football/images/img00528.jpg
+  objects:
+  - bndbox:
+      xmax: 728
+      xmin: 668
+      ymax: 429
+      ymin: 373
+    class_id: 0
+  size:
+  - 720
+  - 1280
+  - 3
+- image_path: E:/Dataset/football/images/img01146.jpg
+  objects:
+  - bndbox:
+      xmax: 893
+      xmin: 835
+      ymax: 321
+      ymin: 267
+    class_id: 0
+  size:
+  - 720
+  - 1280
+  - 3
+- image_path: E:/Dataset/football/images/img00948.jpg
+  objects:
+  - bndbox:
+      xmax: 620
+      xmin: 577
+      ymax: 81
+      ymin: 39
+    class_id: 0
+  size:
+  - 720
+  - 1280
+  - 3

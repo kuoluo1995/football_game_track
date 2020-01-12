@@ -1,0 +1,7 @@
+NumPy
+sklean
+OpenCV
+Pillow
+tensorflow 1.13
+yaml
+pathlib
